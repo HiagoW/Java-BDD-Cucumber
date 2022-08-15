@@ -1,0 +1,16 @@
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/integration/controller/LeiloesControllerTest.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/integration/repository/UsuarioRepositoryTest.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/selenium/LanceE2ETest.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/Browser.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/model/LeilaoTest.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/LeiloesPage.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/NovoLeilaoPage.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/BrowserFactory.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/integration/controller/TestBase.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/LoginPage.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/integration/service/LanceServiceTest.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/DetalhesDoLeilaoPage.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/model/LanceTest.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/selenium/E2ETestBase.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/pages/AlterarLeilaoPage.java
+/home/hiagopetris/bdd-cucumber-java-aula1/src/test/java/br/com/alura/leilao/e2e/selenium/LeiloesE2ETest.java
